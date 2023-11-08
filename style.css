@@ -34,7 +34,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
   }
     button {
-      padding:10px;
+      padding: 12px;
       font: size 20px;
       cursor: pointer;}
     
