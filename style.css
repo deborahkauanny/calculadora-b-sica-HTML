@@ -25,10 +25,10 @@ body {
   
   #display {
     width: 100%;
-    padding: 10px;
-    font-size: 12px;
+    padding: 12px;
+    font-size: 5px;
   }
-  
+
   .buttons {
     display: grid;
     grid-template-columns: repeat(57, 1fr);
@@ -37,4 +37,4 @@ body {
     padding: 10px;
     font-size: 20px;
     cursor: pointer;
-  }
+  2
